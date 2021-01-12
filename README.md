@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-Project_assigment
+# Individual household electric power consumption
